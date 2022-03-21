@@ -1,0 +1,243 @@
+commit 580eca9e74559954f8171e3def38b8ef586e3994 
+
+Author: Niilo <niilo.lehtonen@helsinki.fi> 
+
+Date:   Mon Mar 21 16:03:31 2022 +0200 
+
+  
+
+    lisää file22 
+
+  
+
+tiedostoja/file22.txt | 0 
+
+1 file changed, 0 insertions(+), 0 deletions(-) 
+
+  
+
+commit 9b6ac636a091266693cfb262da006979f8226dae 
+
+Author: Niilo <niilo.lehtonen@helsinki.fi> 
+
+Date:   Mon Mar 21 16:02:36 2022 +0200 
+
+  
+
+    poisto ja muokkaus 
+
+  
+
+tiedostoja/file1.txt | 0 
+
+tiedostoja/file2.txt | 0 
+
+2 files changed, 0 insertions(+), 0 deletions(-) 
+
+  
+
+commit 39c586e2206a6f884112960024ef295aff6f7ea9 
+
+Author: Niilo <niilo.lehtonen@helsinki.fi> 
+
+Date:   Sun Mar 20 20:18:14 2022 +0200 
+
+  
+
+    filut 
+
+  
+
+tiedostoja/file1.txt | 0 
+
+tiedostoja/file2.txt | 0 
+
+tiedostoja/file3.txt | 0 
+
+3 files changed, 0 insertions(+), 0 deletions(-) 
+
+  
+
+commit d111272f02a937625eeab60601247ec21c3adbc0 
+
+Author: Niilo <niilo.lehtonen@helsinki.fi> 
+
+Date:   Sun Mar 20 19:15:33 2022 +0200 
+
+  
+
+    pushin p 
+
+  
+
+eka.txt    | 7 +++++-- 
+
+kolmas.txt | 1 + 
+
+2 files changed, 6 insertions(+), 2 deletions(-) 
+
+  
+
+commit 2aaf07976980dc976ffd651659e1346af2871ce9 
+
+Author: Niilo <niilo.lehtonen@helsinki.fi> 
+
+Date:   Sun Mar 20 18:56:36 2022 +0200 
+
+  
+
+    rename 
+
+  
+
+tiedosto.txt => eka.txt | 0 
+
+1 file changed, 0 insertions(+), 0 deletions(-) 
+
+  
+
+commit afa214458a1ba2461a9629ebafddfdf85ab4895d 
+
+Author: Niilo <niilo.lehtonen@helsinki.fi> 
+
+Date:   Sun Mar 20 18:53:00 2022 +0200 
+
+  
+
+    poisto 
+
+  
+
+toinen.txt | 1 - 
+
+1 file changed, 1 deletion(-) 
+
+  
+
+commit fdb549e635968a3a42bf5607396fe13a3aa0b771 
+
+Author: Niilo <niilo.lehtonen@helsinki.fi> 
+
+Date:   Sun Mar 20 18:32:39 2022 +0200 
+
+  
+
+    poisto ja lisäys 
+
+  
+
+tiedosto.txt | 4 +--- 
+
+1 file changed, 1 insertion(+), 3 deletions(-) 
+
+  
+
+commit bc1a6642616aa1c93de1bce4e8c9e76ff8c7a2b6 
+
+Author: Niilo <niilo.lehtonen@helsinki.fi> 
+
+Date:   Sun Mar 20 18:29:14 2022 +0200 
+
+  
+
+    pitchfork 
+
+  
+
+tiedosto.txt | 8 +++++++- 
+
+1 file changed, 7 insertions(+), 1 deletion(-) 
+
+  
+
+commit 2aff6dec9d9de5f53417d838a4d4a6a74ba70f87 
+
+Author: Niilo <niilo.lehtonen@helsinki.fi> 
+
+Date:   Sun Mar 20 18:06:53 2022 +0200 
+
+  
+
+    stuff 
+
+  
+
+stuff/xd.txt | 0 
+
+1 file changed, 0 insertions(+), 0 deletions(-) 
+
+  
+
+commit 71694deb03639ec6d8d3b95ff38a2e02ae8aa404 
+
+Author: Niilo <niilo.lehtonen@helsinki.fi> 
+
+Date:   Sun Mar 20 18:05:04 2022 +0200 
+
+  
+
+    kaksi lisäystä 
+
+  
+
+tiedosto.txt | 2 +- 
+
+toinen.txt   | 1 + 
+
+2 files changed, 2 insertions(+), 1 deletion(-) 
+
+  
+
+commit bec0fffdfe6f04fe014c02ce6c471c80677076d4 
+
+Author: Niilo <niilo.lehtonen@helsinki.fi> 
+
+Date:   Sun Mar 20 18:03:20 2022 +0200 
+
+  
+
+    kolmas 
+
+  
+
+kolmas.txt | 0 
+
+1 file changed, 0 insertions(+), 0 deletions(-) 
+
+  
+
+commit c50c2bcf1be01273cd4d42de70a08ccefca94d72 
+
+Author: Niilo <niilo.lehtonen@helsinki.fi> 
+
+Date:   Sun Mar 20 17:53:02 2022 +0200 
+
+  
+
+    muutos ja lisäys 
+
+  
+
+tiedosto.txt | 1 + 
+
+toinen.txt   | 0 
+
+2 files changed, 1 insertion(+) 
+
+  
+
+commit ed33ad0a32d2b9be361023d53674e9c8d1ebe38b 
+
+Author: Niilo <niilo.lehtonen@helsinki.fi> 
+
+Date:   Sat Mar 19 19:05:09 2022 +0200 
+
+  
+
+    tiedosto.txt luotu 
+
+  
+
+tiedosto.txt | 0 
+
+1 file changed, 0 insertions(+), 0 deletions(-) 
