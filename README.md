@@ -6,5 +6,3 @@
 
 [komentorivi.txt](https://github.com/niilolehtonen/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
 
-
-muutos
